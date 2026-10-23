@@ -1,0 +1,9 @@
+LEX001 lexical token validity
+SYN001 CFG production/punctuation
+SEM001 redeclaration
+SEM002 declaration-before-use and scope
+SEM003 type compatibility
+SEM004 function resolution
+SEM005 function arity
+TAC intermediate code
+OPT constant folding and algebraic simplification

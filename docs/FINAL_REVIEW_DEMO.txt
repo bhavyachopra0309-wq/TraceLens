@@ -1,0 +1,11 @@
+TRACELENS FINAL REVIEW DEMO ORDER
+1. Complete Demo -> Analyze -> Dashboard/Pipeline.
+2. Tokens -> explain lexer and line/column.
+3. AST -> explain hierarchy/precedence.
+4. Symbol Table -> explain declarations, types, scope.
+5. TAC -> show temporary variables, labels and jumps.
+6. Optimization -> show constant folding/algebraic simplification when applicable.
+7. Semantic Errors -> Analyze -> Diagnostics -> explain SEM001/SEM002.
+8. AI Coach -> explain lightweight RAG and deterministic grounding.
+9. Ask Local LLM (Ollama) -> show generative explanation if Ollama is running.
+10. Syntax Error -> Safe Auto-Fix -> show deterministic fix and re-analysis.

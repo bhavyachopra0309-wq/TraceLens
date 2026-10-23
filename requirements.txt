@@ -1,0 +1,2 @@
+# No external Python packages required.
+# Optional external application: Ollama with llama3.2 model.
